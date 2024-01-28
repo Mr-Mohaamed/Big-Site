@@ -1,0 +1,16 @@
+{
+  "user": 
+    [
+        {
+        "username": "cccccccccccc",
+        "password": "cccccc2",
+        "email": "hulkmamdouh4@yahoo.com",
+        "isSignnedIn": true
+        },{
+        "username": "aaaaaaaa",
+        "password": "aaaaaaaaaa2",
+        "email": "hulkmamdouh4@yahoo.com",
+        "isSignnedIn": false
+        }
+    ]
+}
